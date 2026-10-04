@@ -11,7 +11,7 @@ load_dotenv()
 # Create a client that communicates with Ollama
 client = OpenAI(
     base_url = os.getenv("BASE_URL"),
-    api_key= os.getenv("API_KEY")
+    api_key= os.getenv("GROQ_API_KEY")
 )
 
 # Send a question to the AI model
