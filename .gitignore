@@ -11,6 +11,9 @@ __pycache__/
 *.pyc
 *.pyo
 
+# Local agent memory (personal chat history and facts)
+*.db
+
 # Packaging / build
 *.egg-info/
 build/
