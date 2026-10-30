@@ -1,0 +1,13 @@
+{
+  "typeCheckingMode": "basic",
+  "executionEnvironments": [
+    {
+      "root": "Lab17",
+      "pythonVersion": "3.13",
+      "extraPaths": ["Lab17/.venv/Lib/site-packages"]
+    },
+    {
+      "root": "."
+    }
+  ]
+}
