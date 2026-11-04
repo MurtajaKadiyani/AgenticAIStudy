@@ -40,7 +40,7 @@ async def main():
             "messages": [
                 {
                     "role": "user",
-                    "content": "According to my notes, what is MCP?"
+                    "content": "What is MCP and what is current time?"
                 }
             ]
         }
